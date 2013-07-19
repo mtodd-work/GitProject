@@ -1,1 +1,7 @@
 Repository for testing GitHub
+
+Adding text from melinda_1 branch.
+Will commit to melinda_1 and then use a
+pull request in GitHub to pull the changes.
+
+Also, try to find code review tool in GitHub.
