@@ -5,3 +5,5 @@ Will commit to melinda_1 and then use a
 pull request in GitHub to pull the changes.
 
 Also, try to find code review tool in GitHub.
+
+Need to commit mutliple branches into the same branch and then do a pull request from the next branch above. Want to see how pull request works when multiple branches are merged into one. Can we still pull on a single branch even though it has been merged into a larger one?
